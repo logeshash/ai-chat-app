@@ -67,3 +67,6 @@ Desktop.ini
 # DeepSeek/API specific
 *.api_key
 *.secret
+
+# Package specific
+package-lock.json
